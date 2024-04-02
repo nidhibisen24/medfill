@@ -1,0 +1,4 @@
+nav ul li a.active {
+    border-bottom: 3px solid #29b6c2 ; /* Border bottom ka color aur size set karen */
+  }
+
